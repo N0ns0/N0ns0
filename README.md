@@ -2,7 +2,7 @@
 
 👀 I’m really enthusiastic about learning programming and specializing in Web development...
  
-🌱 I’m have learnt SQL and have beginner knowledge of python but my main goal is to learn Java, CSS and HTML
+🌱 I have learnt SQL and have beginner knowledge of python but my main goal is to learn Java, CSS and HTML
  
 💞️ I’m looking to collaborate on projects that would help me learn and develop these skills...
  
